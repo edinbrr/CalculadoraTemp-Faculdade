@@ -76,7 +76,7 @@ Simples e didático, este projeto marca o início do aprendizado em Python.
 👨‍🎓 Autor
 ```
 👨‍🏫 Desenvolvido por Edson Victor
-📚 Projeto Acadêmico – Lógica e Programação de Computadores
+📚 Projeto Acadêmico – Desenvolvimento Full Stack
 📆 2025
 ```
 
